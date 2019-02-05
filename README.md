@@ -1,1 +1,1 @@
-# marcobiedermann-cli
+# @marcobiedermann/cli
