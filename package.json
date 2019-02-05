@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node lib/index.js"
   },
+  "bin": {
+    "marcobiedermann": "bin/cli.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marcobiedermann/marcobiedermann-cli.git"
@@ -16,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/marcobiedermann/marcobiedermann-cli/issues"
   },
-  "homepage": "https://github.com/marcobiedermann/marcobiedermann-cli#readme"
+  "homepage": "https://github.com/marcobiedermann/marcobiedermann-cli#readme",
+  "dependencies": {}
 }
