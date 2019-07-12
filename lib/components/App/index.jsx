@@ -1,4 +1,4 @@
-const { h, Color } = require('ink');
+const { Color } = require('ink');
 const React = require('react');
 
 const App = () => (
