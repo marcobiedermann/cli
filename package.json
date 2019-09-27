@@ -25,7 +25,7 @@
   "dependencies": {
     "import-jsx": "^3.0.0",
     "ink": "^2.4.0",
-    "react": "^16.9.0"
+    "react": "^16.10.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
