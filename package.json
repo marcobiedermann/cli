@@ -24,7 +24,7 @@
   "homepage": "https://github.com/marcobiedermann/marcobiedermann-cli#readme",
   "dependencies": {
     "import-jsx": "^3.1.0",
-    "ink": "^2.5.0",
+    "ink": "^3.0.0",
     "react": "^16.12.0"
   },
   "devDependencies": {
