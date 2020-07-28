@@ -1,10 +1,6 @@
-const { Color } = require('ink');
+const { Text } = require('ink');
 const React = require('react');
 
-const App = () => (
-  <Color hex="#fff">
-    Hello, world
-  </Color>
-);
+const App = () => <Text>Hello, world</Text>;
 
 module.exports = App;
