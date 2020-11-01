@@ -29,7 +29,7 @@
     "ink-gradient": "^2.0.0",
     "ink-select-input": "^4.0.0",
     "open": "^7.3.0",
-    "react": "^16.13.1"
+    "react": "^16.14.0"
   },
   "devDependencies": {
     "eslint": "^7.10.0",
